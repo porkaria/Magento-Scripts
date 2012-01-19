@@ -1,0 +1,10 @@
+Projeto criado para facilitar a vida daqueles que assim como eu estão iniciando no Magento.
+
+stock_update.php - Atualiza o estoque (preço e quantidade) dos produtos através de um arquivo CSV local ou remoto (FTP)
+
+
+Projeto criado por Bruno PorKaria
+http://porkaria.com.br
+http://twitter.com/porkaria
+
+Licença: Use como quiser desde que mantenha os créditos.
