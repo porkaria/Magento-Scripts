@@ -2,6 +2,11 @@ Projeto criado para facilitar a vida daqueles que assim como eu estão iniciando
 
 stock_update.php - Atualiza o estoque (preço e quantidade) dos produtos através de um arquivo CSV local ou remoto (FTP)
 
+products_insert.php - Insere produtos no catalogo do Magento através de um arquivo CSV
+
+
+*Em ambos os scripts o método dataPrepare é onde você monta o array que será inserido na base, esse processo é manual pois normalmente a tabela que você está migrando é diferente da tabela do Magento
+
 
 Projeto criado por Bruno PorKaria
 http://porkaria.com.br
